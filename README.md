@@ -2,8 +2,8 @@
 
 Computer Engineer (Ankara University, 2026). I build full-stack and AI-integrated applications, mostly with **Python, FastAPI and Next.js**, with a focus on security, testing and clean deployment.
 
-Built an internal meeting-management platform during my internship at Ülker: FastAPI, Next.js, PostgreSQL, Keycloak SSO, CI/CD with security scanning
-Part-time R&D developer working on generative AI workflows (LLM tool orchestration, image/video/3D model integration)
+-Built an internal meeting-management platform during my internship at Ülker: FastAPI, Next.js, PostgreSQL, Keycloak SSO, CI/CD with security scanning
+-Part-time R&D developer working on generative AI workflows (LLM tool orchestration, image/video/3D model integration)
 
 
 ### Projects
